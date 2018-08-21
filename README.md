@@ -1,5 +1,5 @@
 # sceen-resolutions
-A summary table of popular devices and their screen specifications: resolution, aspect ratio, size, dpi, etc.
+A summary table of popular devices and their screen specifications: resolution (in px and pt), aspect ratio, size, dpi, etc.
 
 ## Mobile devices (Apple)
 
